@@ -1,0 +1,16 @@
+Windows PowerShell
+Copyright (C) 2009 Microsoft Corporation. All rights reserved.
+
+C:\Users\DELL\Documents\GitHub> git config --global user.name "sehrish2013"
+C:\Users\DELL\Documents\GitHub> git config --global user.email "sehrishrafiq@yma
+il.com"
+C:\Users\DELL\Documents\GitHub> ssh-keygen -t rsa -C "sehrishrafiq@ymail.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/DELL/.ssh/id_rsa): sshkey.txt
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in sshkey.txt.
+Your public key has been saved in sshkey.txt.pub.
+The key fingerprint is:
+95:22:3a:59:7b:74:8d:bc:31:b3:6d:e0:68:0e:24:d9 sehrishrafiq@ymail.com
+C:\Users\DELL\Documents\GitHub>
